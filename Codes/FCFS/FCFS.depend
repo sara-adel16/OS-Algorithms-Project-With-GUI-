@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1609261833 source:c:\users\sawah\desktop\fcfs\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+
+1609298146 source:f:\osproject\fcfs\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+
+1609717435 source:f:\osproject\code\fcfs\main.cpp
+	<bits/stdc++.h>
+

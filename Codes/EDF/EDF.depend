@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609349732 source:f:\osproject\edf\main.cpp
+	<bits/stdc++.h>
+	<fstream>
+
